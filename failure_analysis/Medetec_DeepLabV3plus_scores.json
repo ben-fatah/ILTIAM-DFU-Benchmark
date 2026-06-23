@@ -1,0 +1,802 @@
+[
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0001.png",
+    "dice": 0.626,
+    "iou": 0.4556
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0001_1.png",
+    "dice": 0.6118,
+    "iou": 0.4407
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0001_2.png",
+    "dice": 0.6106,
+    "iou": 0.4395
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0001_3.png",
+    "dice": 0.6175,
+    "iou": 0.4466
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0003.png",
+    "dice": 0.8375,
+    "iou": 0.7204
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0003_1.png",
+    "dice": 0.8059,
+    "iou": 0.6749
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0003_2.png",
+    "dice": 0.7508,
+    "iou": 0.601
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0003_3.png",
+    "dice": 0.8187,
+    "iou": 0.6931
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0004.png",
+    "dice": 0.9244,
+    "iou": 0.8594
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0004_1.png",
+    "dice": 0.9353,
+    "iou": 0.8785
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0004_2.png",
+    "dice": 0.9207,
+    "iou": 0.8531
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0004_3.png",
+    "dice": 0.9283,
+    "iou": 0.8662
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0005.png",
+    "dice": 0.852,
+    "iou": 0.7422
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0005_1.png",
+    "dice": 0.9034,
+    "iou": 0.8239
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0005_2.png",
+    "dice": 0.8418,
+    "iou": 0.7268
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0005_3.png",
+    "dice": 0.9093,
+    "iou": 0.8337
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0007.png",
+    "dice": 0.862,
+    "iou": 0.7574
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0007_1.png",
+    "dice": 0.6905,
+    "iou": 0.5273
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0007_2.png",
+    "dice": 0.7881,
+    "iou": 0.6503
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0007_3.png",
+    "dice": 0.6519,
+    "iou": 0.4835
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0008.png",
+    "dice": 0.9456,
+    "iou": 0.8968
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0008_1.png",
+    "dice": 0.9509,
+    "iou": 0.9063
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0008_2.png",
+    "dice": 0.9373,
+    "iou": 0.882
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0008_3.png",
+    "dice": 0.9271,
+    "iou": 0.8641
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0010.png",
+    "dice": 0.9367,
+    "iou": 0.8809
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0010_1.png",
+    "dice": 0.9382,
+    "iou": 0.8836
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0010_2.png",
+    "dice": 0.9303,
+    "iou": 0.8697
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0010_3.png",
+    "dice": 0.9388,
+    "iou": 0.8847
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0011.png",
+    "dice": 0.6487,
+    "iou": 0.4801
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0011_1.png",
+    "dice": 0.573,
+    "iou": 0.4016
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0011_2.png",
+    "dice": 0.6482,
+    "iou": 0.4796
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0011_3.png",
+    "dice": 0.5842,
+    "iou": 0.4127
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0012.png",
+    "dice": 0.7429,
+    "iou": 0.591
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0012_1.png",
+    "dice": 0.8409,
+    "iou": 0.7255
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0012_2.png",
+    "dice": 0.8595,
+    "iou": 0.7536
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0012_3.png",
+    "dice": 0.8547,
+    "iou": 0.7463
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0013.png",
+    "dice": 0.9191,
+    "iou": 0.8503
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0013_1.png",
+    "dice": 0.9369,
+    "iou": 0.8812
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0013_2.png",
+    "dice": 0.907,
+    "iou": 0.8299
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0013_3.png",
+    "dice": 0.9512,
+    "iou": 0.9069
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0014.png",
+    "dice": 0.8916,
+    "iou": 0.8045
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0014_1.png",
+    "dice": 0.8171,
+    "iou": 0.6908
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0014_2.png",
+    "dice": 0.8181,
+    "iou": 0.6922
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0014_3.png",
+    "dice": 0.819,
+    "iou": 0.6935
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0015.png",
+    "dice": 0.3642,
+    "iou": 0.2226
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0015_1.png",
+    "dice": 0.2572,
+    "iou": 0.1476
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0015_2.png",
+    "dice": 0.2886,
+    "iou": 0.1686
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0015_3.png",
+    "dice": 0.3701,
+    "iou": 0.227
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0016.png",
+    "dice": 0.5524,
+    "iou": 0.3816
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0016_1.png",
+    "dice": 0.8369,
+    "iou": 0.7195
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0016_2.png",
+    "dice": 0.5114,
+    "iou": 0.3436
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0016_3.png",
+    "dice": 0.7923,
+    "iou": 0.6561
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0017.png",
+    "dice": 0.5313,
+    "iou": 0.3617
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0017_1.png",
+    "dice": 0.8869,
+    "iou": 0.7967
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0017_2.png",
+    "dice": 0.7307,
+    "iou": 0.5757
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0017_3.png",
+    "dice": 0.8162,
+    "iou": 0.6895
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0018.png",
+    "dice": 0.5462,
+    "iou": 0.3757
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0018_1.png",
+    "dice": 0.443,
+    "iou": 0.2846
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0018_2.png",
+    "dice": 0.6086,
+    "iou": 0.4374
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0018_3.png",
+    "dice": 0.5838,
+    "iou": 0.4122
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0019.png",
+    "dice": 0.8317,
+    "iou": 0.7118
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0019_1.png",
+    "dice": 0.7961,
+    "iou": 0.6613
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0019_2.png",
+    "dice": 0.8847,
+    "iou": 0.7932
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0019_3.png",
+    "dice": 0.837,
+    "iou": 0.7196
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0020.png",
+    "dice": 0.8632,
+    "iou": 0.7594
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0020_1.png",
+    "dice": 0.8823,
+    "iou": 0.7894
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0020_2.png",
+    "dice": 0.8609,
+    "iou": 0.7558
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0020_3.png",
+    "dice": 0.8762,
+    "iou": 0.7797
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0021.png",
+    "dice": 0.8812,
+    "iou": 0.7876
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0021_1.png",
+    "dice": 0.8428,
+    "iou": 0.7284
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0021_2.png",
+    "dice": 0.8918,
+    "iou": 0.8047
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0021_3.png",
+    "dice": 0.8428,
+    "iou": 0.7283
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0025.png",
+    "dice": 0.4447,
+    "iou": 0.286
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0025_1.png",
+    "dice": 0.2439,
+    "iou": 0.1389
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0025_2.png",
+    "dice": 0.4365,
+    "iou": 0.2791
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0025_3.png",
+    "dice": 0.2908,
+    "iou": 0.1702
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0026.png",
+    "dice": 0.7233,
+    "iou": 0.5665
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0026_1.png",
+    "dice": 0.8435,
+    "iou": 0.7294
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0026_2.png",
+    "dice": 0.7019,
+    "iou": 0.5407
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0026_3.png",
+    "dice": 0.801,
+    "iou": 0.668
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0027.png",
+    "dice": 0.9425,
+    "iou": 0.8912
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0027_1.png",
+    "dice": 0.9404,
+    "iou": 0.8875
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0027_2.png",
+    "dice": 0.9507,
+    "iou": 0.906
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0027_3.png",
+    "dice": 0.8002,
+    "iou": 0.6669
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0028.png",
+    "dice": 0.6529,
+    "iou": 0.4847
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0028_1.png",
+    "dice": 0.6645,
+    "iou": 0.4976
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0028_2.png",
+    "dice": 0.6611,
+    "iou": 0.4937
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0028_3.png",
+    "dice": 0.6516,
+    "iou": 0.4832
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0029.png",
+    "dice": 0.7256,
+    "iou": 0.5694
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0029_1.png",
+    "dice": 0.7615,
+    "iou": 0.6149
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0029_2.png",
+    "dice": 0.7987,
+    "iou": 0.6648
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0029_3.png",
+    "dice": 0.4463,
+    "iou": 0.2873
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0032.png",
+    "dice": 0.8832,
+    "iou": 0.7908
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0032_1.png",
+    "dice": 0.4738,
+    "iou": 0.3104
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0032_2.png",
+    "dice": 0.909,
+    "iou": 0.8331
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-0032_3.png",
+    "dice": 0.7195,
+    "iou": 0.5619
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-2-1.png",
+    "dice": 0.8583,
+    "iou": 0.7518
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-2-1_1.png",
+    "dice": 0.8571,
+    "iou": 0.7499
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-2-1_2.png",
+    "dice": 0.8954,
+    "iou": 0.8106
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-2-1_3.png",
+    "dice": 0.8114,
+    "iou": 0.6826
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-2-2.png",
+    "dice": 0.8841,
+    "iou": 0.7923
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-2-2_1.png",
+    "dice": 0.7814,
+    "iou": 0.6412
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-2-2_2.png",
+    "dice": 0.8884,
+    "iou": 0.7992
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-2-2_3.png",
+    "dice": 0.812,
+    "iou": 0.6835
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-2-3.png",
+    "dice": 0.6744,
+    "iou": 0.5088
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-2-3_1.png",
+    "dice": 0.6054,
+    "iou": 0.4341
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-2-3_2.png",
+    "dice": 0.6433,
+    "iou": 0.4741
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-2-3_3.png",
+    "dice": 0.5096,
+    "iou": 0.3419
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-2-4.png",
+    "dice": 0.306,
+    "iou": 0.1806
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-2-4_1.png",
+    "dice": 0.1474,
+    "iou": 0.0795
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-2-4_2.png",
+    "dice": 0.3688,
+    "iou": 0.2261
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-2-4_3.png",
+    "dice": 0.0619,
+    "iou": 0.0319
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-3-2.png",
+    "dice": 0.8989,
+    "iou": 0.8164
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-3-2_1.png",
+    "dice": 0.7076,
+    "iou": 0.5476
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-3-2_2.png",
+    "dice": 0.8611,
+    "iou": 0.7561
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-3-2_3.png",
+    "dice": 0.7496,
+    "iou": 0.5995
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-3-3.png",
+    "dice": 0.7527,
+    "iou": 0.6035
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-3-3_1.png",
+    "dice": 0.6817,
+    "iou": 0.5171
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-3-3_2.png",
+    "dice": 0.776,
+    "iou": 0.634
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-3-3_3.png",
+    "dice": 0.5062,
+    "iou": 0.3389
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-3-4.png",
+    "dice": 0.8798,
+    "iou": 0.7854
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-3-4_1.png",
+    "dice": 0.8643,
+    "iou": 0.761
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-3-4_2.png",
+    "dice": 0.873,
+    "iou": 0.7746
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-3-4_3.png",
+    "dice": 0.8565,
+    "iou": 0.749
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-3-5.png",
+    "dice": 0.7754,
+    "iou": 0.6332
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-3-5_1.png",
+    "dice": 0.7524,
+    "iou": 0.6031
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-3-5_2.png",
+    "dice": 0.7594,
+    "iou": 0.6121
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer-3-5_3.png",
+    "dice": 0.754,
+    "iou": 0.6051
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-1.png",
+    "dice": 0.7511,
+    "iou": 0.6014
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-1_1.png",
+    "dice": 0.5775,
+    "iou": 0.406
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-1_2.png",
+    "dice": 0.7593,
+    "iou": 0.612
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-1_3.png",
+    "dice": 0.5917,
+    "iou": 0.4202
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-2.png",
+    "dice": 0.9056,
+    "iou": 0.8274
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-2_1.png",
+    "dice": 0.8384,
+    "iou": 0.7218
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-2_2.png",
+    "dice": 0.8967,
+    "iou": 0.8127
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-2_3.png",
+    "dice": 0.8423,
+    "iou": 0.7276
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-3.png",
+    "dice": 0.4663,
+    "iou": 0.304
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-3_1.png",
+    "dice": 0.752,
+    "iou": 0.6026
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-3_2.png",
+    "dice": 0.6059,
+    "iou": 0.4346
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-3_3.png",
+    "dice": 0.5892,
+    "iou": 0.4176
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-4.png",
+    "dice": 0.1966,
+    "iou": 0.109
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-4_1.png",
+    "dice": 0.461,
+    "iou": 0.2996
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-4_2.png",
+    "dice": 0.2148,
+    "iou": 0.1203
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-4_3.png",
+    "dice": 0.2024,
+    "iou": 0.1126
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-5.png",
+    "dice": 0.7704,
+    "iou": 0.6265
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-5_1.png",
+    "dice": 0.7602,
+    "iou": 0.6132
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-5_2.png",
+    "dice": 0.7566,
+    "iou": 0.6085
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-5_3.png",
+    "dice": 0.7685,
+    "iou": 0.624
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-8.png",
+    "dice": 0.7775,
+    "iou": 0.6359
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-8_1.png",
+    "dice": 0.8394,
+    "iou": 0.7232
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-8_2.png",
+    "dice": 0.798,
+    "iou": 0.6639
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\train\\images\\foot-ulcer1-8_3.png",
+    "dice": 0.8439,
+    "iou": 0.7299
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\test\\images\\foot-ulcer-0027.png",
+    "dice": 0.9425,
+    "iou": 0.8912
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\test\\images\\foot-ulcer-0027_1.png",
+    "dice": 0.9404,
+    "iou": 0.8875
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\test\\images\\foot-ulcer-0027_2.png",
+    "dice": 0.9507,
+    "iou": 0.906
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\test\\images\\foot-ulcer-0027_3.png",
+    "dice": 0.8002,
+    "iou": 0.6669
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\test\\images\\foot-ulcer-0028.png",
+    "dice": 0.6529,
+    "iou": 0.4847
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\test\\images\\foot-ulcer-0028_1.png",
+    "dice": 0.6645,
+    "iou": 0.4976
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\test\\images\\foot-ulcer-0028_2.png",
+    "dice": 0.6611,
+    "iou": 0.4937
+  },
+  {
+    "path": "C:\\ai\\gradutionProject\\trainmodel\\dataset\\Medetec_foot_ulcer_224\\test\\images\\foot-ulcer-0028_3.png",
+    "dice": 0.6516,
+    "iou": 0.4832
+  }
+]
